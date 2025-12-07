@@ -14,13 +14,13 @@ I am proficient in Databases including: MySQL, MongoDB, PostgresSQL, Redis, mari
 
 My favorite tools are Notion, apple notes, and my personal diary (you donot want to see).
 
-I am currently mastering DevOps. That is the main goal I have for 2026 and ofcourse building my personal github profile (so it matches my steller and diverse experience). 
+Currently exploring the realm of DevOps. That is the main goal I have for 2026 and building my personal github profile (so it matches my diverse experience). 
 
 I’ve built over 100 repos, but privately.. it’s probably more than 200 at this point.
 
 #### Fun Facts:
 
 * I am a Movieholic and full time Cinephile. You name a movie, I would know it.
-* I don’t drink tea. Just Coffee only in winters for the culture.
+* I don’t drink tea. Just coffee only in winters.
 * Suits is my favorite season. Some people call me the engineer version of Harvey Specter (because I like to boil things down to fundamentals). 
 * **Hobbies:** football/soccer, running, travelling. Might hit the gym as well at some point.
