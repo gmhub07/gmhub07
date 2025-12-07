@@ -21,6 +21,6 @@ I’ve built over 100 repos, but privately.. it’s probably more than 200 at th
 #### Fun Facts:
 
 * I am a Movieholic and full time Cinephile. You name a movie, I would know it.
-* I don’t drink coffee or tea. Still finds ways to stay pro-active.
+* I don’t drink tea. Just Coffee only in winters for the culture.
 * Suits is my favorite season. Some people call me the engineer version of Harvey Specter (because I like to boil things down to fundamentals). 
 * **Hobbies:** football/soccer, running, travelling. Might hit the gym as well at some point.
