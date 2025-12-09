@@ -22,5 +22,5 @@ I’ve built over 100 repos, but privately.. it’s probably more than 200 at th
 
 * I am a Movieholic and full time Cinephile. You name a movie, I would know it.
 * I don’t drink tea. Just coffee only in winters.
-* Suits is my favorite season. Harvey Specter vibes only. 
+* Suits is my favorite season.
 * **Hobbies:** football/soccer, running, and love of travelling.
