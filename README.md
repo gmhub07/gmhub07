@@ -14,7 +14,7 @@ I am proficient in Databases including: MySQL, MongoDB, PostgresSQL, Redis, mari
 
 My favorite tools are Notion, apple notes, and my personal diary (you donot want to see).
 
-Currently exploring the realm of DevOps and building my personal github profile. 
+Currently focusing on mastering the realm of DevOps and building my personal github profile. 
 
 I’ve built over 100 repos, but privately.. it’s probably more than 200 at this point.
 
