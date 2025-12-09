@@ -1,6 +1,6 @@
 ### Hey there! <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="25"/>
 
-I’m [**Ghulam Mustafa**](https://www.linkedin.com/in/ghulam-mustafa-38a1b9239/), a full stack software engineer with 3+ years of experince, based in Pakistan.
+I’m [**Ghulam Mustafa**](https://www.linkedin.com/in/ghulam-mustafa-38a1b9239/), a full stack software engineer with 2+ years of experince, based in Pakistan.
 
 I love to observe, design and build applications that helps to solve the real world problems.
 
@@ -14,7 +14,7 @@ I am proficient in Databases including: MySQL, MongoDB, PostgresSQL, Redis, mari
 
 My favorite tools are Notion, apple notes, and my personal diary (you donot want to see).
 
-Currently exploring the realm of DevOps. That is the main goal I have for 2026 and building my personal github profile (so it matches my diverse experience). 
+Currently exploring the realm of DevOps and building my personal github profile. 
 
 I’ve built over 100 repos, but privately.. it’s probably more than 200 at this point.
 
@@ -22,5 +22,5 @@ I’ve built over 100 repos, but privately.. it’s probably more than 200 at th
 
 * I am a Movieholic and full time Cinephile. You name a movie, I would know it.
 * I don’t drink tea. Just coffee only in winters.
-* Suits is my favorite season. Some people call me the engineer version of Harvey Specter (I like to challenge people on their fundamentals). 
-* **Hobbies:** football/soccer, running, travelling. Might hit the gym as well at some point.
+* Suits is my favorite season. Harvey Specter vibes only. 
+* **Hobbies:** football/soccer, running, and love of travelling.
