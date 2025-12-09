@@ -6,7 +6,7 @@ I love to observe, design and build applications that helps to solve the real wo
 
 If an idea pops into my head, chances are I’ll build it and ship it.
 
-My main frontend techstack is react, typescript, tailwind, and Vue.js (currently mastering).
+My main frontend techstack is react, typescript, tailwind, and Vue.js.
 
 My go-to backend techstack is laravel, Django and FastAPI. 
 
