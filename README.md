@@ -1,6 +1,6 @@
 ### Hey there! <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="25"/>
 
-I’m [**Ghulam Mustafa**](https://www.linkedin.com/in/ghulam-mustafa-38a1b9239/), a full stack software engineer with 2.5 years of experince, based in Pakistan.
+I’m [**Ghulam Mustafa**](https://www.linkedin.com/in/ghulam-mustafa-38a1b9239/), a full stack software engineer with 3 years of experince, based in Pakistan.
 
 I love to observe, design and build applications that helps to solve the real world problems.
 
@@ -21,6 +21,6 @@ I’ve built over 100 repos, but privately.. it’s probably more than 200 at th
 #### Fun Facts:
 
 * I am a Movieholic and full time Cinephile. You name a movie, I would know it.
-* I don’t drink tea. Just coffee only in winters.
+* I don’t drink tea. Just coffee.
 * Suits is my favorite season.
 * **Hobbies:** football/soccer, running, and love of travelling.
